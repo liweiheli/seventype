@@ -1,10 +1,11 @@
   @font-face{
-    font-family:"Pitch";
-    src: url("https://liweiheli.github.io/seventype/Pitch/Pitch-Light.otf";
+    font-family:"Pitch-Light";
+    src: url("https://liweiheli.github.io/seventype/Pitch/Pitch-Light.otf");
     font-stretch: normal;
   }
 
 .hh{
-  font-family:"Pitch";
+  font-family:"Pitch-Light";
+
 
 }
