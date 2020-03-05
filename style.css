@@ -1,6 +1,9 @@
   @font-face{
-    font-family:"Lyon Collection";
-    src: url("https://github.com/liweiheli/seventype/blob/master/Lyon%20Text-Regular.otf");
-
+    font-family:"Lyon Regular";
+    src: url("https://github.com/liweiheli/seventype/Lyon%20Text-Regular.otf");
 
   }
+
+.hh{
+  font-family:"Lyon Regular"
+}
