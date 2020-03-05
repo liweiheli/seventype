@@ -1,11 +1,10 @@
   @font-face{
-    font-family:"Pitch-Light";
-    src: url("https://liweiheli.github.io/seventype/seventypes/Pitch/Pitch-Light.otf");
-    font-stretch: normal;
+    font-family:"LyonDisplay-Regular";
+    src: url("https://itssandyw.github.io/corestudio/htmlmarkup/Lyon-Display/LyonDisplay-Regular.otf");
+
   }
-
 .hh{
-  font-family:"Pitch-Light";
-
+  font-family:"LyonDisplay-Regular";
+  font-size: 30px;
 
 }
