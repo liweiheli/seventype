@@ -1,9 +1,10 @@
   @font-face{
-    font-family:"Lyon Regular";
+    font-family:"LyonText-Regular";
     src: url("https://liweiheli.github.io/seventype/LyonText-Regular.otf");
-
+    font-style:normal;
   }
 
 .hh{
-  font-family:"Lyon Regular"
+  font-family:"LyonText-Regular";
+  font-size:2em;
 }
