@@ -1,10 +1,77 @@
   @font-face{
-    font-family:"LyonDisplay-Regular";
-    src: url("https://itssandyw.github.io/corestudio/htmlmarkup/Lyon-Display/LyonDisplay-Regular.otf");
-
+    font-family:"Simple-Light";
+    src: url("https://liweiheli.github.io/seventype/seventypes/SimpleOTF/Simple-Light.otf");
   }
-.hh{
-  font-family:"LyonDisplay-Regular";
-  font-size: 30px;
 
+  @font-face{
+    font-family:"Simple-Bold";
+    src: url("https://liweiheli.github.io/seventype/seventypes/SimpleOTF/Simple-Bold.otf");
+  }
+
+  @font-face{
+    font-family:"Simple-BoldTitling";
+    src: url("https://liweiheli.github.io/seventype/seventypes/SimpleOTF/Simple-BoldTitling.otf");
+  }
+
+  @font-face{
+    font-family:"Simple";
+    src: url("https://liweiheli.github.io/seventype/seventypes/SimpleOTF/Simple.otf");
+  }
+
+  @font-face{
+    font-family:"Simple-Oblique";
+    src: url("https://liweiheli.github.io/seventype/seventypes/SimpleOTF/Simple-Oblique.otf");
+  }
+
+body{
+  margin-left: 10vh;
+}
+
+.title{
+  font-family:"Simple-Bold";
+  font-size: 1.7em;
+
+
+
+
+
+}
+
+.start{
+  font-family: "Simple-Oblique";
+
+  margin-right: 60vh;
+  font-size:1.3em;
+}
+
+.name{
+  font-family:"Simple-BoldTitling";
+  font-size: 1.3em;
+  line-height: 8vh;
+}
+
+hr{
+  margin-right: 10vh;
+}
+
+p{
+  margin-right: 25vh;
+  font-size:1.1em;
+}
+.text{
+  margin-left: 30vh;
+  font-family:"Simple";
+  font-size:1.3em;
+}
+
+h3{
+  font-family:"Simple-Bold";
+}
+
+li{
+  font-family:"Simple-Bold";
+  font-size:0.9em;
+}
+.p1{
+  font-family:"Simple";
 }
